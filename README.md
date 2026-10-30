@@ -72,4 +72,4 @@
 
 * **Education:** Masaryk University, Faculty of Informatics (2010 – 2015) – Coursework in Applied Informatics (Bachelor's programme); Gymnázium V. B. Nedožerského (2006 – 2010) – Informatics.
 * **Languages:** Czech (Native), Slovak (Native), English (Fluent – C1, daily communication in international teams at Red Hat & IBM).
-* **Interests & Technical Hobbies:** Glider & Powered Aircraft Pilot (**SPL, PPL(A)**), 3D Printing & Modeling, CNC Laser Engraving & Cutting, Arduino & Micro:bit programming with my daughter, Woodworking, Photography, Floorball (Goalkeeper), Running, Skiing.
+* **Interests & Technical Hobbies:** Glider & Powered Aircraft Pilot (**SPL, PPL(A)**), 3D Printing & Modeling, CNC Laser Engraving & Cutting, Arduino, Micro:bit programming with kids, Woodworking, Photography, Floorball (Goalkeeper), Running, Skiing.
