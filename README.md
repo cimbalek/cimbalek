@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-**Java Software Engineer** with 10+ years of experience at **IBM** and **Red Hat**, combining enterprise backend development, internal Java tooling, and CI/CD infrastructure engineering. Experienced in reverse-engineering, debugging, and extending complex enterprise codebases (**Kogito, jBPM, Drools, BPMN**) using **Java (up to JDK 21), Quarkus, Spring, Hibernate/JPA, and SQL**, built on commercial web backend foundations (**Spring Boot**). Strong operational overlap in Linux system administration (**RHCSA**), cloud/container platforms (**OpenShift, Docker, OpenStack**), static code analysis (**SonarQube**), and dependency vulnerability validation (**CVE**).
+**Java Software Engineer** with 10+ years of experience at **IBM** and **Red Hat**, combining enterprise backend development, internal Java tooling, and CI/CD infrastructure engineering. Experienced in reverse-engineering, debugging, and extending complex enterprise codebases (**Kogito, jBPM, Drools, BPMN**) and developing **REST APIs** using **Java (up to JDK 21), Quarkus, Spring, Hibernate/JPA, and SQL**, built on commercial web backend foundations (**Spring Boot**). Strong operational overlap in Linux system administration (**RHCSA**), cloud/container platforms (**OpenShift, Docker, Podman, OpenStack**), static code analysis (**SonarQube**), and dependency vulnerability validation (**CVE**).
 
 ---
 
@@ -15,8 +15,9 @@
 
 ### Software Engineer | IBM Česká republika, spol. s r. o. *(01/2023 – 07/2026)*
 **Project:** *Business Automation Manager Open Edition (BAMOE) – Enterprise Business Automation (Kogito runtimes, jBPM engine)*
-* **Core Backend & Engine Development:** Implemented new features and resolved critical customer production bugs (L3 sustenance) within the **Kogito runtimes** and **jBPM engine** (**Java, Quarkus, Spring, SQL, BPMN**).
-* **Legacy Codebase Diagnostics & API Verification:** Reverse-engineered and debugged a massive, largely undocumented enterprise codebase; verified **REST and GraphQL API** endpoint functionality, and utilized agentic AI workflows for code generation, test development, code analysis, and code reviews.
+* **Core Backend & Engine Development:** Implemented new features and resolved critical customer production bugs (L3 sustenance) directly within the **Kogito runtimes** and **jBPM engine** (**Java, Quarkus, Spring, SQL, BPMN**).
+* **REST API Development & Error Handling:** Added, modified, and fixed **REST API** endpoints and their underlying execution logic in **Spring** and **Quarkus**, including structured error handling and accurate HTTP status code mapping; verified **REST and GraphQL API** endpoint functionality.
+* **Legacy Codebase Diagnostics & AI-Assisted Engineering:** Reverse-engineered and debugged a massive, largely undocumented enterprise codebase; utilized agentic AI workflows for code generation, test development, code analysis, and code reviews.
 * **Release Engineering & LTS CI Infrastructure:** Collaborated on the product release process during the early stages of the Red Hat-to-IBM transition using **Tekton** and internal tooling; maintained build and test infrastructure for inherited Long-Term Support (LTS) streams (**Jenkins, OpenStack, Bash, JUnit, Java**).
 
 ### Senior Software Quality & Automation Engineer | Red Hat Czech s.r.o. *(08/2016 – 12/2022)*
@@ -42,7 +43,7 @@
 * **Enterprise & Backend Technologies:** Spring, Spring Boot, Quarkus, Hibernate / JPA, HQL, PL/SQL, Java SPI, REST API, Swagger, SOAP, XML, GraphQL (endpoint validation), BPMN, Keycloak, JMS, Jersey, JAXB, Flyway, UML.
 * **Databases & Persistence:** DB-agnostic persistence via **Hibernate / JPA**; primary hands-on experience with **PostgreSQL** and **MySQL / MariaDB** (**DBeaver**); certification matrix & DB-specific bug resolution on **Oracle, Oracle RAC, DB2, MS SQL, and Sybase**.
 * **Application Servers:** JBoss EAP / WildFly, Apache Tomcat (secondary certification matrix configuration & integration: IBM WebSphere, Oracle WebLogic).
-* **DevSecOps, Tooling & Infrastructure:** Docker, OpenShift, Tekton, Ansible, Nexus Repository Manager, SonarQube (PR static analysis), CVE Dependency Validation, Markdown, Jira, Confluence, ServiceNow, HTML.
+* **DevSecOps, Tooling & Infrastructure:** Docker, Podman, OpenShift, Tekton, GitLab Pipelines, Ansible, Nexus Repository Manager, SonarQube (PR static analysis), CVE Dependency Validation, Markdown, Jira, Confluence, ServiceNow, HTML.
 
 ---
 
@@ -62,7 +63,7 @@
 
 ## Selected Personal & Community Projects
 
-* **Aeroklub Zbraslavice ([aeroklub-zbraslavice.cz](https://aeroklub-zbraslavice.cz)):** Full website design, development, and deployment of a custom AI assistant/agent for the local aviation club.
+* **Aeroklub Zbraslavice ([aeroklub-zbraslavice.cz](https://aeroklub-zbraslavice.cz)):** Website design and development on **WordPress**, including the integration of a custom AI assistant/agent for the local aviation club.
 * **AI Agents & Prototyping:** Mobile application prototyping via **Google AI Studio** and design of specialized AI assistants (custom Gemini Gems, educational/fact-checking assistants with strict system-prompt guardrails).
 
 ---
