@@ -15,7 +15,7 @@
 
 ### Software Engineer | IBM Česká republika, spol. s r. o. *(01/2023 – 07/2026)*
 **Project:** *Business Automation Manager Open Edition (BAMOE) – Enterprise Business Automation (Kogito runtimes, jBPM engine)*
-* **Core Backend & Engine Development:** Implemented new features and resolved critical customer production bugs (L3 sustenance) directly within the **Kogito runtimes** and **jBPM engine** (**Java, Quarkus, Spring, SQL, BPMN**).
+* **Core Backend & Engine Development:** Implemented new features and resolved critical customer production bugs (L3 sustenance) within the **Kogito runtimes** and **jBPM engine** (**Java, Quarkus, Spring, SQL, BPMN**).
 * **REST API Development & Error Handling:** Added, modified, and fixed **REST API** endpoints and their underlying execution logic in **Spring** and **Quarkus**, including structured error handling and accurate HTTP status code mapping; verified **REST and GraphQL API** endpoint functionality.
 * **Legacy Codebase Diagnostics & AI-Assisted Engineering:** Reverse-engineered and debugged a massive, largely undocumented enterprise codebase; utilized agentic AI workflows for code generation, test development, code analysis, and code reviews.
 * **Release Engineering & LTS CI Infrastructure:** Collaborated on the product release process during the early stages of the Red Hat-to-IBM transition using **Tekton** and internal tooling; maintained build and test infrastructure for inherited Long-Term Support (LTS) streams (**Jenkins, OpenStack, Bash, JUnit, Java**).
@@ -41,8 +41,8 @@
 
 * **Primary / Core Stack:** Java (JDK 1.7, 1.8, 11, 17, 21 across OpenJDK, Oracle JDK, IBM JDK), Groovy, Bash, SQL, JUnit, Mockito, Maven, Git, Jenkins (incl. JobDSL), OpenStack, Linux Administration (RHCSA).
 * **Enterprise & Backend Technologies:** Spring, Spring Boot, Quarkus, Hibernate / JPA, HQL, PL/SQL, Java SPI, REST API, Swagger, SOAP, XML, GraphQL (endpoint validation), BPMN, Keycloak, JMS, Jersey, JAXB, Flyway, UML.
-* **Databases & Persistence:** DB-agnostic persistence via **Hibernate / JPA**; primary hands-on experience with **PostgreSQL** and **MySQL / MariaDB** (**DBeaver**); certification matrix & DB-specific bug resolution on **Oracle, Oracle RAC, DB2, MS SQL, and Sybase**.
-* **Application Servers:** JBoss EAP / WildFly, Apache Tomcat (secondary certification matrix configuration & integration: IBM WebSphere, Oracle WebLogic).
+* **Databases & Persistence:** DB-agnostic persistence via **Hibernate / JPA**; primary hands-on experience with **PostgreSQL and MySQL / MariaDB** (DBeaver); certification matrix & DB-specific bug resolution on **Oracle, Oracle RAC, DB2, MS SQL, and Sybase**.
+* **Application Servers:** JBoss EAP / WildFly, Apache Tomcat; secondary certification matrix configuration & integration: IBM WebSphere, Oracle WebLogic.
 * **DevSecOps, Tooling & Infrastructure:** Docker, Podman, OpenShift, Tekton, GitLab Pipelines, Ansible, Nexus Repository Manager, SonarQube (PR static analysis), CVE Dependency Validation, Markdown, Jira, Confluence, ServiceNow, HTML.
 
 ---
@@ -64,7 +64,7 @@
 ## Selected Personal & Community Projects
 
 * **Aeroklub Zbraslavice ([aeroklub-zbraslavice.cz](https://aeroklub-zbraslavice.cz)):** Website design and development on **WordPress**, including the integration of a custom AI assistant/agent for the local aviation club.
-* **AI Agents & Prototyping:** Mobile application prototyping via **Google AI Studio** and design of specialized AI assistants (custom Gemini Gems, educational/fact-checking assistants with strict system-prompt guardrails).
+* **AI Agents & Prototyping:** Mobile application prototyping via **Google AI Studio** and design of specialized AI assistants (custom Gemini Gems/Skills, educational/fact-checking assistants with strict system-prompt guardrails).
 
 ---
 
@@ -72,4 +72,4 @@
 
 * **Education:** Masaryk University, Faculty of Informatics (2010 – 2015) – Coursework in Applied Informatics (Bachelor's programme); Gymnázium V. B. Nedožerského (2006 – 2010) – Informatics.
 * **Languages:** Czech (Native), Slovak (Native), English (Fluent – C1, daily communication in international teams at Red Hat & IBM).
-* **Interests & Technical Hobbies:** Glider & Powered Aircraft Pilot (**SPL, PPL(A)**), 3D Printing & Modeling, CNC Laser Engraving & Cutting, Arduino, Micro:bit programming with kids, Woodworking, Photography, Floorball (Goalkeeper), Running, Skiing.
+* **Interests & Technical Hobbies:** Glider & Powered Aircraft Pilot (SPL, PPL(A)), 3D Printing & Modeling, CNC Laser Engraving & Cutting, Arduino, Micro:bit programming with kids, Woodworking, Photography, Floorball (Goalkeeper), Running, Skiing.
